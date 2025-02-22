@@ -15,7 +15,7 @@ A speech recognition-based chatbot dictionary with text-to-speech capabilities f
 - Voice control commands
 - Cross-platform compatibility (Windows/Linux)
 
-## 📦 Requirements
+##  Requirements
 ### Essential Libraries
 ```bash
 pip install SpeechRecognition gtts pyaudio
