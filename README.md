@@ -8,7 +8,7 @@ A speech recognition-based chatbot dictionary with text-to-speech capabilities f
 ![Python](https://img.shields.io/badge/Python-3.7%2B-blue)
 ![SpeechRecognition](https://img.shields.io/badge/SpeechRecognition-3.10.0-green)
 
-## 🚀 Key Features
+## 🚀 Features
 - Voice input through microphone
 - Artificial voice responses
 - Expandable Persian dictionary
@@ -41,7 +41,7 @@ cd voice-dictionary
 python main.py
 ```
 
-## 🎮 How to Use
+##  How to Use
 1. Speak into microphone when program is running
 2. Clearly pronounce words to get definitions
 3. Control commands:
@@ -54,12 +54,9 @@ Edit `main.py` and update the dictionary:
 word_definitions["New Word"] = "Custom Definition"
 ```
 
-## ⚠️ Limitations
-- Requires internet connection for speech recognition
-- Performance depends on microphone quality
-- Basic starter dictionary
 
-## 🔮 Future Development
+
+##  Future Development
 - [ ] Integrate official dictionary API
 - [ ] Add GUI interface
 - [ ] Add English language support
